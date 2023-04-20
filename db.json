@@ -3,22 +3,24 @@
 
     {
         "id":1,
-        "title":"Goodsie - Foldsack No. 1 Backpack, Fits 15 Laptops",
-        "price":109.95,"description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-        "category":"men's clothing",
-        "image":"https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "title":"Nike Green Baggy Jumper",
+        "price":49.99,
+        "description":"Trendy green jumper, perfect for a cold day.",
+        "category":"womens clothing",
+        "image":"https://asset.cloudinary.com/dyvsjxtxa/d1d791286702b392fd90cccadbab3342",
         "rating":{"rate":3.9,"count":120}
     },
     {
-        "id":1,
-        "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-        "price":109.95,"description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-        "category":"men's clothing",
-        "image":"https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-        "rating":{"rate":3.9,"count":120}
+        "id":2,
+        "title":"Adidas Grey T-Shirt",
+        "price":29.99,
+        "description":"Lightweight grey t-shirt, perfect for wearing whilst enjoying the hot weather.",
+        "category":"mens clothing",
+        "image":"https://sguru.org/wp-content/uploads/2018/02/greyback_61269BC583CD3.png",
+        "rating":{"rate":4.4,"count":88}
     },
     {
-        "id":1,
+        "id":3,
         "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
         "price":109.95,"description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category":"men's clothing",
