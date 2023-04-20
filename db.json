@@ -7,7 +7,7 @@
         "price":49.99,
         "description":"Trendy green jumper, perfect for a cold day.",
         "category":"womens clothing",
-        "image":"https://asset.cloudinary.com/dyvsjxtxa/d1d791286702b392fd90cccadbab3342",
+        "image":"https://i.pinimg.com/originals/3b/dc/c8/3bdcc8e517b48c8d8fa606b4cca26306.png",
         "rating":{"rate":3.9,"count":120}
     },
     {
@@ -21,19 +21,21 @@
     },
     {
         "id":3,
-        "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-        "price":109.95,"description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-        "category":"men's clothing",
-        "image":"https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-        "rating":{"rate":3.9,"count":120}
+        "title":"Adidas Sport Woven Jacket",
+        "price":69.99,
+        "description":"Waterproof grey jacket, perfect for rainy weather.",
+        "category":"womens clothing",
+        "image":"https://images.eastbay.com/pi/BR3382/zoom/adidas-athletics-sport-id-woven-jacket-mens",
+        "rating":{"rate":4.6,"count":133}
     },
     {
-        "id":1,
-        "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-        "price":109.95,"description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-        "category":"men's clothing",
-        "image":"https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-        "rating":{"rate":3.9,"count":120}
+        "id":4,
+        "title":"Puma Black Jumper",
+        "price":39.99,
+        "description":"Black crewneck jumper, perfect for cold weather.",
+        "category":"mens clothing",
+        "image":"https://s3-eu-west-1.amazonaws.com/images.linnlive.com/547b3d68c93e199cbd048cb886b17ccc/d0a37429-ad95-456e-9537-47822ef7ff76.jpg",
+        "rating":{"rate":4.1,"count":55}
     },
     {
         "id":1,
